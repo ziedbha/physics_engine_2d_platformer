@@ -1,0 +1,2695 @@
+fileFormatVersion: 2
+guid: 175b408b5a2d90042ab3a596a6f583ec
+timeCreated: 1499209221
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Megaman sprite_0
+    21300002: Megaman sprite_1
+    21300004: Megaman sprite_2
+    21300006: Megaman sprite_3
+    21300008: Megaman sprite_4
+    21300010: Megaman sprite_5
+    21300012: Megaman sprite_6
+    21300014: Megaman sprite_7
+    21300016: Megaman sprite_8
+    21300018: Megaman sprite_9
+    21300020: Megaman sprite_10
+    21300022: Megaman sprite_11
+    21300024: Megaman sprite_12
+    21300026: Megaman sprite_13
+    21300028: Megaman sprite_14
+    21300030: Megaman sprite_15
+    21300032: Megaman sprite_16
+    21300034: Megaman sprite_17
+    21300036: Megaman sprite_18
+    21300038: Megaman sprite_19
+    21300040: Megaman sprite_20
+    21300042: Megaman sprite_21
+    21300044: Megaman sprite_22
+    21300046: Megaman sprite_23
+    21300048: Megaman sprite_24
+    21300050: Megaman sprite_25
+    21300052: Megaman sprite_26
+    21300054: Megaman sprite_27
+    21300056: Megaman sprite_28
+    21300058: Megaman sprite_29
+    21300060: Megaman sprite_30
+    21300062: Megaman sprite_31
+    21300064: Megaman sprite_32
+    21300066: Megaman sprite_33
+    21300068: Megaman sprite_34
+    21300070: Megaman sprite_35
+    21300072: Megaman sprite_36
+    21300074: Megaman sprite_37
+    21300076: Megaman sprite_38
+    21300078: Megaman sprite_39
+    21300080: Megaman sprite_40
+    21300082: Megaman sprite_41
+    21300084: Megaman sprite_42
+    21300086: Megaman sprite_43
+    21300088: Megaman sprite_44
+    21300090: Megaman sprite_45
+    21300092: Megaman sprite_46
+    21300094: Megaman sprite_47
+    21300096: Megaman sprite_48
+    21300098: Megaman sprite_49
+    21300100: Megaman sprite_50
+    21300102: Megaman sprite_51
+    21300104: Megaman sprite_52
+    21300106: Megaman sprite_53
+    21300108: Megaman sprite_54
+    21300110: Megaman sprite_55
+    21300112: Megaman sprite_56
+    21300114: Megaman sprite_57
+    21300116: Megaman sprite_58
+    21300118: Megaman sprite_59
+    21300120: Megaman sprite_60
+    21300122: Megaman sprite_61
+    21300124: Megaman sprite_62
+    21300126: Megaman sprite_63
+    21300128: Megaman sprite_64
+    21300130: Megaman sprite_65
+    21300132: Megaman sprite_66
+    21300134: Megaman sprite_67
+    21300136: Megaman sprite_68
+    21300138: Megaman sprite_69
+    21300140: Megaman sprite_70
+    21300142: Megaman sprite_71
+    21300144: Megaman sprite_72
+    21300146: Megaman sprite_73
+    21300148: Megaman sprite_74
+    21300150: Megaman sprite_75
+    21300152: Megaman sprite_76
+    21300154: Megaman sprite_77
+    21300156: Megaman sprite_78
+    21300158: Megaman sprite_79
+    21300160: Megaman sprite_80
+    21300162: Megaman sprite_81
+    21300164: Megaman sprite_82
+    21300166: Megaman sprite_83
+    21300168: Megaman sprite_84
+    21300170: Megaman sprite_85
+    21300172: Megaman sprite_86
+    21300174: Megaman sprite_87
+    21300176: Megaman sprite_88
+    21300178: Megaman sprite_89
+    21300180: Megaman sprite_90
+    21300182: Megaman sprite_91
+    21300184: Megaman sprite_92
+    21300186: Megaman sprite_93
+    21300188: Megaman sprite_94
+    21300190: Megaman sprite_95
+    21300192: Megaman sprite_96
+    21300194: Megaman sprite_97
+    21300196: Megaman sprite_98
+    21300198: Megaman sprite_99
+    21300200: Megaman sprite_100
+    21300202: Megaman sprite_101
+    21300204: Megaman sprite_102
+    21300206: Megaman sprite_103
+    21300208: Megaman sprite_104
+    21300210: Megaman sprite_105
+    21300212: Megaman sprite_106
+    21300214: Megaman sprite_107
+    21300216: Megaman sprite_108
+    21300218: Megaman sprite_109
+    21300220: Megaman sprite_110
+    21300222: Megaman sprite_111
+    21300224: Megaman sprite_112
+    21300226: Megaman sprite_113
+    21300228: Megaman sprite_114
+    21300230: Megaman sprite_115
+    21300232: Megaman sprite_116
+    21300234: Megaman sprite_117
+    21300236: Megaman sprite_118
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megaman sprite_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 481
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -4, y: -24}
+        - {x: 4, y: -24}
+        - {x: 4, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 481
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -5, y: 13.5}
+        - {x: -11, y: 2.5}
+        - {x: -11, y: -14.5}
+        - {x: 11, y: -14.5}
+        - {x: 11, y: 4.5}
+        - {x: 9, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 481
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -13, y: 11}
+        - {x: -15, y: -1}
+        - {x: -15, y: -21}
+        - {x: 15, y: -21}
+        - {x: 15, y: 19}
+        - {x: 11, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 481
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 19.5}
+        - {x: -15, y: 9.5}
+        - {x: -15, y: -19.5}
+        - {x: 15, y: -19.5}
+        - {x: 15, y: 11.5}
+        - {x: 14, y: 19.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 481
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 18}
+        - {x: -15, y: 5}
+        - {x: -15, y: -18}
+        - {x: 15, y: -18}
+        - {x: 15, y: 9}
+        - {x: 10, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17}
+        - {x: -15, y: 8}
+        - {x: -15, y: -17}
+        - {x: 15, y: -17}
+        - {x: 15, y: 8}
+        - {x: 10, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 481
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 16}
+        - {x: -4, y: 16}
+        - {x: -15, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: -4, y: 17}
+        - {x: -6, y: 16}
+        - {x: -15, y: 4}
+        - {x: -15, y: -17}
+        - {x: 15, y: -17}
+        - {x: 15, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: -4, y: 17}
+        - {x: -6, y: 16}
+        - {x: -15, y: 4}
+        - {x: -15, y: -17}
+        - {x: 15, y: -17}
+        - {x: 15, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: -4, y: 17}
+        - {x: -6, y: 16}
+        - {x: -15, y: 4}
+        - {x: -15, y: -17}
+        - {x: 15, y: -17}
+        - {x: 15, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 480
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -13, y: 5}
+        - {x: -15, y: -7}
+        - {x: -15, y: -17}
+        - {x: 13, y: -17}
+        - {x: 15, y: -14}
+        - {x: 15, y: 16}
+        - {x: 13, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 480
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -10, y: 7}
+        - {x: -10, y: -17}
+        - {x: 7, y: -17}
+        - {x: 10, y: -9}
+        - {x: 10, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 480
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 17.5}
+        - {x: -11.5, y: -0.5}
+        - {x: -11.5, y: -17.5}
+        - {x: 7.5, y: -17.5}
+        - {x: 11.5, y: -9.5}
+        - {x: 11.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 480
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17}
+        - {x: -16, y: 11}
+        - {x: -16, y: -17}
+        - {x: 16, y: -17}
+        - {x: 16, y: 12}
+        - {x: 12, y: 17}
+      - - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 12, y: -2}
+        - {x: 13, y: -3}
+        - {x: 10, y: -2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 480
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16.5}
+        - {x: -17, y: 5.5}
+        - {x: -17, y: -5.5}
+        - {x: -8, y: -9.5}
+        - {x: 1, y: -16.5}
+        - {x: 17, y: -16.5}
+        - {x: 17, y: 13.5}
+        - {x: 12, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 480
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16.5}
+        - {x: -4, y: 15.5}
+        - {x: -13, y: 0.5}
+        - {x: -13, y: -12.5}
+        - {x: -5, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 13, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 480
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17}
+        - {x: -11, y: 3}
+        - {x: -11, y: -15}
+        - {x: -9, y: -17}
+        - {x: 8, y: -17}
+        - {x: 11, y: -14}
+        - {x: 11, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 480
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 17.5}
+        - {x: -4.5, y: 16.5}
+        - {x: -11.5, y: 4.5}
+        - {x: -12.5, y: -1.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -11.5, y: -17.5}
+        - {x: -0.5, y: -17.5}
+        - {x: 12.5, y: -5.5}
+        - {x: 12.5, y: 16.5}
+        - {x: 11.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_18
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 480
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: -6, y: 17}
+        - {x: -15, y: 9}
+        - {x: -15, y: 1}
+        - {x: -12, y: -2}
+        - {x: -10, y: -2}
+        - {x: -15, y: -3}
+        - {x: -15, y: -17}
+        - {x: 14, y: -17}
+        - {x: 15, y: -16}
+        - {x: 15, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 480
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -17, y: 13.5}
+        - {x: -17, y: -7.5}
+        - {x: -8, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 15, y: -12.5}
+        - {x: 17, y: -7.5}
+        - {x: 17, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 480
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 16.5}
+        - {x: -14.5, y: 9.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 14.5, y: -16.5}
+        - {x: 14.5, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 422
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18.5}
+        - {x: -12, y: 13.5}
+        - {x: -12, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 12, y: -17.5}
+        - {x: 12, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 424
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 20.5}
+        - {x: -7.5, y: -17.5}
+        - {x: -4.5, y: -20.5}
+        - {x: 6.5, y: -20.5}
+        - {x: 7.5, y: -12.5}
+        - {x: 7.5, y: 20.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 423
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 23}
+        - {x: -9.5, y: -17}
+        - {x: -6.5, y: -23}
+        - {x: 9.5, y: -23}
+        - {x: 9.5, y: 23}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 423
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 20.5}
+        - {x: -11.5, y: 3.5}
+        - {x: -9.5, y: -6.5}
+        - {x: -3.5, y: -20.5}
+        - {x: 10.5, y: -20.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 11.5, y: 20.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 423
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21}
+        - {x: -13.5, y: 20}
+        - {x: -13.5, y: -17}
+        - {x: -7.5, y: -21}
+        - {x: 11.5, y: -21}
+        - {x: 13.5, y: -14}
+        - {x: 13.5, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 424
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -7}
+        - {x: 12, y: 9}
+        - {x: 6, y: 19}
+        - {x: -5, y: 19}
+        - {x: -12, y: 12}
+        - {x: -12, y: -19}
+        - {x: -3, y: -19}
+        - {x: -1, y: -17}
+        - {x: 7, y: -16}
+        - {x: 11, y: -14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 423
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 11}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 428
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 17}
+        - {x: -10.5, y: 12}
+        - {x: -14.5, y: 6}
+        - {x: -14.5, y: -17}
+        - {x: 9.5, y: -17}
+        - {x: 14.5, y: -4}
+        - {x: 14.5, y: 15}
+        - {x: 6.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 428
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17.5}
+        - {x: -9, y: 12.5}
+        - {x: -16, y: -6.5}
+        - {x: -16, y: -17.5}
+        - {x: 1, y: -17.5}
+        - {x: 16, y: -1.5}
+        - {x: 16, y: 8.5}
+        - {x: 6, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 428
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17}
+        - {x: -17.5, y: 6}
+        - {x: -17.5, y: -17}
+        - {x: 16.5, y: -17}
+        - {x: 17.5, y: -13}
+        - {x: 17.5, y: 14}
+        - {x: 10.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 428
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 10.5}
+        - {x: 10, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -19, y: 10.5}
+        - {x: -19, y: -7.5}
+        - {x: -12, y: -15.5}
+        - {x: -8, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 17, y: -11.5}
+        - {x: 19, y: -7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 428
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16.5}
+        - {x: -17, y: 4.5}
+        - {x: -17, y: -12.5}
+        - {x: -9, y: -16.5}
+        - {x: 12, y: -16.5}
+        - {x: 17, y: -6.5}
+        - {x: 17, y: 12.5}
+        - {x: 8, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 428
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17}
+        - {x: -15.5, y: 8}
+        - {x: -15.5, y: -17}
+        - {x: 6.5, y: -17}
+        - {x: 15.5, y: -2}
+        - {x: 15.5, y: 12}
+        - {x: 5.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 428
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 5.5, y: -17.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 16.5, y: 9.5}
+        - {x: 10.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 428
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 12}
+        - {x: 8.5, y: 17}
+        - {x: -10.5, y: 17}
+        - {x: -13.5, y: 15}
+        - {x: -17.5, y: 5}
+        - {x: -17.5, y: 0}
+        - {x: -13.5, y: -2}
+        - {x: -11.5, y: -2}
+        - {x: -12.5, y: -2}
+        - {x: -17.5, y: -3}
+        - {x: -17.5, y: -17}
+        - {x: 7.5, y: -17}
+        - {x: 13.5, y: -9}
+        - {x: 17.5, y: -2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 428
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 16.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -18.5, y: 6.5}
+        - {x: -18.5, y: -7.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 18.5, y: -15.5}
+        - {x: 18.5, y: 9.5}
+        - {x: 9.5, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_38
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 428
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 16.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 10.5, y: -12.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 9.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 375
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 18.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 7.5, y: -18.5}
+        - {x: 14.5, y: -9.5}
+        - {x: 14.5, y: 11.5}
+        - {x: 6.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 375
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20.5}
+        - {x: -12, y: -12.5}
+        - {x: -8, y: -19.5}
+        - {x: -8, y: -20.5}
+        - {x: 8, y: -20.5}
+        - {x: 12, y: -6.5}
+        - {x: 12, y: 16.5}
+        - {x: 4, y: 20.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 375
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23}
+        - {x: -13.5, y: -23}
+        - {x: 4.5, y: -23}
+        - {x: 13.5, y: -2}
+        - {x: 13.5, y: 16}
+        - {x: 3.5, y: 23}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 375
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 20.5}
+        - {x: -15.5, y: 20.5}
+        - {x: -15.5, y: -0.5}
+        - {x: -14.5, y: -6.5}
+        - {x: -8.5, y: -20.5}
+        - {x: 4.5, y: -20.5}
+        - {x: 15.5, y: -3.5}
+        - {x: 15.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 375
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 3}
+        - {x: 15.5, y: 15}
+        - {x: 7.5, y: 21}
+        - {x: -15.5, y: 21}
+        - {x: -15.5, y: -11}
+        - {x: -11.5, y: -21}
+        - {x: 0.5, y: -21}
+        - {x: 1.5, y: -20}
+        - {x: 5.5, y: -13}
+        - {x: 14.5, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 375
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -15, y: 15}
+        - {x: -15, y: -19}
+        - {x: -4, y: -19}
+        - {x: 10, y: -14}
+        - {x: 15, y: 0}
+        - {x: 15, y: 13}
+        - {x: 4, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 375
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -18, y: 2}
+        - {x: -18, y: -16}
+        - {x: 13, y: -16}
+        - {x: 18, y: -4}
+        - {x: 18, y: 11}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 375
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15.5}
+        - {x: -14, y: 3.5}
+        - {x: -14, y: -12.5}
+        - {x: -11, y: -15.5}
+        - {x: 12, y: -15.5}
+        - {x: 14, y: -13.5}
+        - {x: 14, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 375
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 1}
+        - {x: -19, y: -13}
+        - {x: 17, y: -13}
+        - {x: 19, y: -12}
+        - {x: 19, y: 13}
+        - {x: -9, y: 13}
+        - {x: -12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 376
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 15.5}
+        - {x: -19, y: 12.5}
+        - {x: -19, y: -15.5}
+        - {x: 17, y: -15.5}
+        - {x: 19, y: -13.5}
+        - {x: 19, y: 7.5}
+        - {x: 12, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 376
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 13}
+        - {x: -24.5, y: 1}
+        - {x: -24.5, y: -13}
+        - {x: 1.5, y: -13}
+        - {x: 24.5, y: -4}
+        - {x: 24.5, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_50
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 370
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -22.5}
+        - {x: 14, y: -22.5}
+        - {x: 14, y: 16.5}
+        - {x: 2, y: 22.5}
+        - {x: -14, y: 22.5}
+        - {x: -14, y: -22.5}
+        - {x: -1, y: -22.5}
+        - {x: -1, y: -19.5}
+        - {x: 1, y: -16.5}
+        - {x: 1, y: -14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 370
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 16.5}
+        - {x: 4.5, y: 22.5}
+        - {x: -13.5, y: 22.5}
+        - {x: -14.5, y: 0.5}
+        - {x: -14.5, y: -22.5}
+        - {x: -1.5, y: -22.5}
+        - {x: -1.5, y: -19.5}
+        - {x: 0.5, y: -16.5}
+        - {x: 0.5, y: -14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_52
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 370
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -24}
+        - {x: 17, y: -24}
+        - {x: 17, y: -18}
+        - {x: 16, y: -18}
+        - {x: 17, y: -10}
+        - {x: 17, y: 17}
+        - {x: 8, y: 24}
+        - {x: -12, y: 24}
+        - {x: -17, y: 18}
+        - {x: -17, y: -24}
+        - {x: -4, y: -24}
+        - {x: -4, y: -21}
+        - {x: -2, y: -18}
+        - {x: -2, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_53
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 370
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 20.5}
+        - {x: 12.5, y: 22.5}
+        - {x: -14.5, y: 22.5}
+        - {x: -14.5, y: -22.5}
+        - {x: -1.5, y: -22.5}
+        - {x: -1.5, y: -19.5}
+        - {x: 0.5, y: -16.5}
+        - {x: 0.5, y: -14.5}
+      - - {x: 10.5, y: 6.5}
+        - {x: 10.5, y: 7.5}
+        - {x: 8.5, y: 4.5}
+        - {x: 9.5, y: 4.5}
+      - - {x: -14.5, y: 7.5}
+        - {x: -11.5, y: 7.5}
+        - {x: -9.5, y: 9.5}
+        - {x: -10.5, y: 12.5}
+        - {x: -14.5, y: 12.5}
+      - - {x: 6.5, y: 16.5}
+        - {x: 9.5, y: 13.5}
+        - {x: 10.5, y: 13.5}
+        - {x: 9.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_54
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 370
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 15.5, y: -9.5}
+        - {x: 15.5, y: 18.5}
+        - {x: 11.5, y: 22.5}
+        - {x: -12.5, y: 22.5}
+        - {x: -15.5, y: 8.5}
+        - {x: -15.5, y: -22.5}
+        - {x: -3.5, y: -22.5}
+        - {x: -3.5, y: -19.5}
+        - {x: -1.5, y: -16.5}
+        - {x: -1.5, y: -14.5}
+      - - {x: 7.5, y: 14.5}
+        - {x: 4.5, y: 17.5}
+        - {x: 1.5, y: 18.5}
+        - {x: 10.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 332
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -14, y: 14}
+        - {x: -15, y: 1}
+        - {x: -15, y: -17}
+        - {x: 15, y: -17}
+        - {x: 15, y: 8}
+        - {x: 10, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 332
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -17}
+        - {x: 14.5, y: 15}
+        - {x: 13.5, y: 17}
+        - {x: -10.5, y: 17}
+        - {x: -14.5, y: 14}
+        - {x: -14.5, y: -17}
+        - {x: -1.5, y: -17}
+        - {x: -0.5, y: -12}
+        - {x: -0.5, y: -9}
+        - {x: 0.5, y: -17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 332
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17.5}
+        - {x: -14, y: 4.5}
+        - {x: -15, y: -1.5}
+        - {x: -15, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 15, y: 16.5}
+        - {x: 11, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 332
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: -4, y: 17}
+        - {x: -6, y: 16}
+        - {x: -15, y: 4}
+        - {x: -15, y: -17}
+        - {x: 15, y: -17}
+        - {x: 15, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 332
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16.5}
+        - {x: -15, y: 3.5}
+        - {x: -15, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 15, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_60
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 13.5}
+        - {x: -3.5, y: 12.5}
+        - {x: -12.5, y: -6.5}
+        - {x: -12.5, y: -13.5}
+        - {x: 12.5, y: -13.5}
+        - {x: 12.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 13.5}
+        - {x: -3.5, y: 12.5}
+        - {x: -12.5, y: -6.5}
+        - {x: -12.5, y: -13.5}
+        - {x: 12.5, y: -13.5}
+        - {x: 12.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 13.5}
+        - {x: -3.5, y: 12.5}
+        - {x: -12.5, y: -6.5}
+        - {x: -12.5, y: -13.5}
+        - {x: 12.5, y: -13.5}
+        - {x: 12.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 13.5}
+        - {x: -3.5, y: 12.5}
+        - {x: -12.5, y: -6.5}
+        - {x: -12.5, y: -13.5}
+        - {x: 12.5, y: -13.5}
+        - {x: 12.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_64
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 256
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 41}
+        - {x: -39, y: 4}
+        - {x: -49, y: -23}
+        - {x: -49, y: -41}
+        - {x: 49, y: -41}
+        - {x: 49, y: -13}
+        - {x: 16, y: 41}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 171
+        width: 112
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: -90.5}
+        - {x: 56, y: -80.5}
+        - {x: 20, y: -9.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: -5.5}
+        - {x: 18, y: 3.5}
+        - {x: 19, y: 0.5}
+        - {x: 19, y: -7.5}
+        - {x: 22, y: -10.5}
+        - {x: 44, y: -33.5}
+        - {x: 54, y: 54.5}
+        - {x: 18, y: 90.5}
+        - {x: -18, y: 90.5}
+        - {x: -47, y: 23.5}
+        - {x: -47, y: -0.5}
+        - {x: -39, y: -12.5}
+        - {x: -27, y: -16.5}
+        - {x: -19, y: -5.5}
+        - {x: -18, y: -2.5}
+        - {x: -18, y: 12.5}
+        - {x: -18, y: -4.5}
+        - {x: -19, y: -5.5}
+        - {x: -20, y: -9.5}
+        - {x: -35, y: -39.5}
+        - {x: -56, y: -79.5}
+        - {x: -56, y: -90.5}
+        - {x: -4, y: -90.5}
+        - {x: -2, y: -74.5}
+        - {x: -2, y: -44.5}
+        - {x: 3, y: -90.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 279
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21}
+        - {x: -12.5, y: 18}
+        - {x: -12.5, y: -4}
+        - {x: -4.5, y: -21}
+        - {x: 11.5, y: -21}
+        - {x: 12.5, y: -16}
+        - {x: 12.5, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 279
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21.5}
+        - {x: -13.5, y: -14.5}
+        - {x: -0.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 13.5, y: 21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 279
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -14, y: 10}
+        - {x: -14, y: -10}
+        - {x: -13, y: -11}
+        - {x: 4, y: -21}
+        - {x: 14, y: -21}
+        - {x: 14, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 279
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19.5}
+        - {x: -15, y: 14.5}
+        - {x: -15, y: -0.5}
+        - {x: -3, y: -19.5}
+        - {x: 12, y: -19.5}
+        - {x: 15, y: -15.5}
+        - {x: 15, y: 5.5}
+        - {x: 12, y: 19.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 279
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 22}
+        - {x: -13.5, y: 21}
+        - {x: -13.5, y: -9}
+        - {x: -11.5, y: -19}
+        - {x: 0.5, y: -22}
+        - {x: 13.5, y: -22}
+        - {x: 13.5, y: 16}
+        - {x: 12.5, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 273
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 18}
+        - {x: -10.5, y: -18}
+        - {x: 10.5, y: -18}
+        - {x: 10.5, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 273
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -9, y: -24.5}
+        - {x: 9, y: -24.5}
+        - {x: 9, y: 21.5}
+        - {x: 6, y: 24.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 276
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: -20}
+        - {x: 3, y: -20}
+        - {x: 10, y: -16}
+        - {x: 10, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 276
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -10, y: 13}
+        - {x: -10, y: -15}
+        - {x: -5, y: -20}
+        - {x: 10, y: -20}
+        - {x: 10, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 273
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 24.5}
+        - {x: -9, y: 15.5}
+        - {x: -9, y: -14.5}
+        - {x: -2, y: -24.5}
+        - {x: 9, y: -24.5}
+        - {x: 9, y: 24.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 285
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16}
+        - {x: -10.5, y: 12}
+        - {x: -10.5, y: -6}
+        - {x: -6.5, y: -12}
+        - {x: -2.5, y: -16}
+        - {x: 10.5, y: -16}
+        - {x: 10.5, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 290
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -9, y: 16}
+        - {x: -9, y: -14}
+        - {x: -6, y: -17}
+        - {x: 2, y: -17}
+        - {x: 9, y: -13}
+        - {x: 9, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_78
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 274
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 24}
+        - {x: -13, y: -2}
+        - {x: -11, y: -22}
+        - {x: -8, y: -24}
+        - {x: 4, y: -24}
+        - {x: 13, y: -8}
+        - {x: 13, y: 11}
+        - {x: -1, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 232
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 19}
+        - {x: -15.5, y: 17}
+        - {x: -15.5, y: 1}
+        - {x: -3.5, y: -19}
+        - {x: 11.5, y: -19}
+        - {x: 15.5, y: -11}
+        - {x: 15.5, y: 14}
+        - {x: 6.5, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 231
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 21.5}
+        - {x: -16, y: 11.5}
+        - {x: -16, y: -10.5}
+        - {x: -2, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 21.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 233
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 21}
+        - {x: -16, y: 10}
+        - {x: -16, y: -6}
+        - {x: 6, y: -21}
+        - {x: 16, y: -21}
+        - {x: 16, y: 17}
+        - {x: 14, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 232
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 19.5}
+        - {x: -14.5, y: 19.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -15.5, y: -1.5}
+        - {x: -10.5, y: -18.5}
+        - {x: -6.5, y: -19.5}
+        - {x: 7.5, y: -19.5}
+        - {x: 12.5, y: -7.5}
+        - {x: 15.5, y: 1.5}
+        - {x: 15.5, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 233
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -2.5, y: -19.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 5.5, y: 19.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 181
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -18}
+        - {x: 13, y: -18}
+        - {x: 13, y: 11}
+        - {x: 6, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -14.5, y: 14}
+        - {x: -14.5, y: -7}
+        - {x: -11.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: 13}
+        - {x: 2.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -14.5, y: 14}
+        - {x: -14.5, y: -16}
+        - {x: -13.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: 13}
+        - {x: 2.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_87
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -16, y: 18}
+        - {x: -16, y: -24}
+        - {x: 15, y: -24}
+        - {x: 16, y: -23}
+        - {x: 16, y: 11}
+        - {x: -3, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_88
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 17}
+        - {x: -14.5, y: -7}
+        - {x: -9.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: 13}
+        - {x: 8.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_89
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -16, y: 21}
+        - {x: -16, y: -24}
+        - {x: 15, y: -24}
+        - {x: 16, y: -23}
+        - {x: 16, y: 14}
+        - {x: -3, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -14.5, y: 14}
+        - {x: -14.5, y: -7}
+        - {x: -11.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: 13}
+        - {x: 2.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -16, y: 21}
+        - {x: -16, y: -24}
+        - {x: 15, y: -24}
+        - {x: 16, y: -23}
+        - {x: 16, y: 14}
+        - {x: -3, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 181
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17}
+        - {x: -15.5, y: -8}
+        - {x: -13.5, y: -17}
+        - {x: 15.5, y: -17}
+        - {x: 15.5, y: 10}
+        - {x: 5.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_93
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -14.5, y: 14}
+        - {x: -14.5, y: -7}
+        - {x: -11.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: 13}
+        - {x: 2.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 181
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18}
+        - {x: -13, y: -18}
+        - {x: 13, y: -18}
+        - {x: 13, y: 11}
+        - {x: 6, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_95
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 184
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -25.5, y: 9.5}
+        - {x: -25.5, y: -20.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: -2.5}
+        - {x: 6.5, y: 20.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -4, y: -3}
+        - {x: 4, y: -3}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_97
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 146
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 6, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 5}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 141
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+        - {x: 10, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 146
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 6}
+        - {x: -14, y: -4}
+        - {x: -5, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 149
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 4}
+        - {x: -16, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_101
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 147
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 6}
+        - {x: -19, y: 4}
+        - {x: -19, y: -4}
+        - {x: -13, y: -6}
+        - {x: 19, y: -6}
+        - {x: 19, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_102
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 9.5}
+        - {x: -16, y: 9.5}
+        - {x: -20, y: 4.5}
+        - {x: -20, y: -5.5}
+        - {x: -17, y: -9.5}
+        - {x: 18, y: -9.5}
+        - {x: 20, y: -8.5}
+        - {x: 20, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 143
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 11}
+        - {x: -18, y: 4}
+        - {x: -18, y: -4}
+        - {x: -14, y: -11}
+        - {x: 18, y: -11}
+        - {x: 18, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 106
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -6}
+        - {x: -3, y: -10}
+        - {x: 5, y: -10}
+        - {x: 7, y: -7}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_105
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 8}
+        - {x: -11.5, y: -8}
+        - {x: 11.5, y: -8}
+        - {x: 11.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_106
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 12}
+        - {x: -13.5, y: 6}
+        - {x: -13.5, y: -8}
+        - {x: -7.5, y: -12}
+        - {x: 13.5, y: -12}
+        - {x: 13.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_107
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 16}
+        - {x: -20, y: 15}
+        - {x: -20, y: -9}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 20, y: -10}
+        - {x: 20, y: 14}
+        - {x: 15, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_108
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -14}
+        - {x: -8, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 10}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_109
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 4.5}
+        - {x: -5.5, y: 2.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 2.5, y: -4.5}
+        - {x: 5.5, y: -1.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_110
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 57
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -17, y: 14}
+        - {x: -17, y: -16}
+        - {x: 16, y: -16}
+        - {x: 17, y: -14}
+        - {x: 17, y: 14}
+        - {x: 15, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: -12, y: 16}
+        - {x: -20, y: 9}
+        - {x: -20, y: -16}
+        - {x: 20, y: -16}
+        - {x: 20, y: 12}
+        - {x: 19, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_112
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 56
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 16}
+        - {x: -23, y: 6}
+        - {x: -23, y: -10}
+        - {x: -10, y: -16}
+        - {x: 19, y: -16}
+        - {x: 23, y: -9}
+        - {x: 23, y: 14}
+        - {x: 18, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_113
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 61
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -2.5}
+        - {x: -0.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 0.5}
+        - {x: 0.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 15.5}
+        - {x: -10.5, y: 4.5}
+        - {x: -10.5, y: -2.5}
+        - {x: -2.5, y: -15.5}
+        - {x: 35.5, y: -15.5}
+        - {x: 37.5, y: -9.5}
+        - {x: 37.5, y: 10.5}
+        - {x: 30.5, y: 15.5}
+      - - {x: 17.5, y: -10.5}
+        - {x: 14.5, y: -9.5}
+        - {x: 10.5, y: -11.5}
+      - - {x: -33.5, y: -1.5}
+        - {x: -36.5, y: -4.5}
+        - {x: -36.5, y: -5.5}
+        - {x: -33.5, y: -8.5}
+        - {x: -29.5, y: -8.5}
+        - {x: -26.5, y: -5.5}
+        - {x: -26.5, y: -4.5}
+        - {x: -29.5, y: -1.5}
+      - - {x: -23.5, y: 4.5}
+        - {x: -26.5, y: 3.5}
+        - {x: -26.5, y: 0.5}
+        - {x: -25.5, y: -2.5}
+        - {x: -19.5, y: -2.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -16.5, y: 1.5}
+        - {x: -19.5, y: 4.5}
+      - - {x: -37.5, y: 13.5}
+        - {x: -37.5, y: 6.5}
+        - {x: -29.5, y: 6.5}
+        - {x: -27.5, y: 9.5}
+        - {x: -27.5, y: 10.5}
+        - {x: -30.5, y: 13.5}
+      - - {x: -22.5, y: 14.5}
+        - {x: -25.5, y: 11.5}
+        - {x: -25.5, y: 10.5}
+        - {x: -22.5, y: 7.5}
+        - {x: -18.5, y: 7.5}
+        - {x: -15.5, y: 10.5}
+        - {x: -15.5, y: 11.5}
+        - {x: -18.5, y: 14.5}
+      - - {x: 10.5, y: 11.5}
+        - {x: 14.5, y: 9.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 12.5, y: 12.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 25
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 2.5}
+        - {x: -5.5, y: 0.5}
+        - {x: -5.5, y: -2.5}
+        - {x: 5.5, y: -2.5}
+        - {x: 5.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: -13.5}
+        - {x: -18, y: -14.5}
+        - {x: 15, y: -14.5}
+        - {x: 20, y: -12.5}
+        - {x: 20, y: 10.5}
+        - {x: 15, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15.5}
+        - {x: -21, y: 13.5}
+        - {x: -21, y: -5.5}
+        - {x: -10, y: -15.5}
+        - {x: 16, y: -15.5}
+        - {x: 21, y: -8.5}
+        - {x: 21, y: 13.5}
+        - {x: 18, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman sprite_118
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 4.5}
+        - {x: -7, y: -0.5}
+        - {x: -4, y: -4.5}
+        - {x: 7, y: -4.5}
+        - {x: 7, y: 4.5}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

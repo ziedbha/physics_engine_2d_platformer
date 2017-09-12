@@ -1,0 +1,1 @@
+There are a few demo scenes set up to play. Run them from the game engine or simply run the test build in the Builds folder!
